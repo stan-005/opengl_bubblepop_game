@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\USER\Desktop\groupwork\Bubble pop game\Main.cpp(39,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\groupwork\Bubble pop game\Main.cpp(40,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\groupwork\Bubble pop game\Main.cpp(62,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\USER\Desktop\groupwork\Bubble pop game\Main.cpp(64,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\USER\Desktop\groupwork\Bubble pop game\Main.cpp(65,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\USER\Desktop\groupwork\Bubble pop game\Main.cpp(73,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Bubble pop game.vcxproj -> C:\Users\USER\Desktop\groupwork\Bubble pop game\x64\Debug\Bubble pop game.exe
